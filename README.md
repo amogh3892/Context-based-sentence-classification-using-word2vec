@@ -15,4 +15,4 @@ urllib
 jupyter notebook main_sentence_classification.ipynb
 
 
-<i> All the information regarding the code is present in the jupyter notebook <i>
+<i> All the information regarding the code is present in the jupyter notebook "main_sentence_classification.ipynb"<i>
